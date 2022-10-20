@@ -11,7 +11,7 @@
 <body>
     <header>
         <div>
-            <h1>Michael</h1>
+            <h1>Thomas</h1>
         </div>
     </header>
     <main>
